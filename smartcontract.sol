@@ -1,8 +1,6 @@
 // Smartcontract for Recording Students' Skills Development
 
-// Compiler version:0.4.20-nightly.2018.1.26+commit.bbad48bb.Emscripten.clang
-
-pragma solidity ^0.4.20;
+pragma solidity ^0.4.26;
 
 // owner contract
 
